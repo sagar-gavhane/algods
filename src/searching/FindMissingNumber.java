@@ -1,4 +1,4 @@
-package com.algods.searching;
+package searching;
 
 // Find the Missing Number
 // Ref: https://www.geeksforgeeks.org/find-the-missing-number/
